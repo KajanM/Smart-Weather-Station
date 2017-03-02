@@ -1,4 +1,4 @@
 # Smart-Weather-Station
 A "work in progress" self-state reporting solar powered weather station with power management which gathers different types of weather data, stores them for future analysis and transmit them periodically to the backend using GPRS.
 
-![Alt text](/Smart-Weather-Station/SmartWeatherStation.JPG?raw=true "Smart Weather Station")
+![Alt text](https://github.com/KajanM/Smart-Weather-Station/blob/master/SmartWeatherStation.JPG "Smart Weather Station")
