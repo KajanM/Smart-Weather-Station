@@ -11,14 +11,23 @@ Records of daily weather conditions have been kept for 200 years and more, of co
 
 ##System Functions
 •	Senses different environmental values.
+
 •	Completely solar powered.
+
 •	Has full database containing history of the environment (MySQL)
+
 •	Periodic data transmission using GPRS to a back-end database.
+
 •	Self-contained and monitored for brownouts and power issues.
+
 •	Download data to crunch it on the PC
+
 •	Can connect to the IOT via Twitter, texting, e-mail and Wi-Fi.
+
 
 ##Deliverables
 •	Standalone battery powered device to act as a weather station with pluggable-modules including rain gauge, temperature, humidity, wind gauge.
+
 •	Data should be stored in an SD card and also transmitted periodically using GPRS to a back-end database.
+
 •	The device should have power management.
